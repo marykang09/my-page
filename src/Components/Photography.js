@@ -13,7 +13,6 @@ class Photography extends Component {
                 userName="marykang.film"
                 className="Feed"
                 classNameLoading="Loading"/>
-                {/* <div className="powr-instagram-feed" id="1ed0faaa_1602541617"></div><script src="https://www.powr.io/powr.js?platform=html"></script> */}
             </section>
                 
         )
