@@ -436,7 +436,7 @@ ul#nav li a.current { color:  rgba(189, 99, 15, 0.774); }
    padding-bottom: 60px;
 }
 #blogs h1 {
-   font: 24px/24px 'opensans-bold', sans-serif;
+   font: 30px/30px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
@@ -987,13 +987,14 @@ call-to-action .button {
  #photography h1 {
    font: 30px/30px 'opensans-bold', sans-serif;
    text-align: center;
-   color: rgb(95, 92, 92)
+   text-transform: uppercase;
+   color: rgb(230, 170, 115)
 }
 
 #photography p {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
-   margin-bottom: 10px;
+   color: rgba(192, 142, 96, 0.829);
+   margin-bottom: 14px;
    margin-top: 14px;
    text-align: center;
 }
