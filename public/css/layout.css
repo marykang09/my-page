@@ -200,7 +200,7 @@ ul#nav li a.current { color:  rgba(189, 99, 15, 0.774); }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: rgb(218, 213, 213); }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -503,8 +503,6 @@ ul#nav li a.current { color:  rgba(189, 99, 15, 0.774); }
 .portfolio-item .item-wrap .link-icon {
    display: inline;
    color: #fff;
-   height: 4px;
-   width: 4px;
    font-size: 10px;
    line-height: -10px;
    text-align: right;
@@ -522,7 +520,6 @@ ul#nav li a.current { color:  rgba(189, 99, 15, 0.774); }
    top: 50%;
    left: 50%;
    margin-left: -15px;
-   margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
@@ -759,7 +756,7 @@ call-to-action .button {
 .flexslider .slides > li { position: relative; }
 
 /* Hide the slides before the JS is loaded. Avoids image jumping */
-.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; }
+/* .flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; } */
 /* Suggested container for slide animation setups. Can replace this with your own */
 .flex-container { zoom: 1; position: relative; }
 
@@ -875,7 +872,6 @@ call-to-action .button {
    margin: 12px 0;
    color: #EBEEEE;
 	display: inline-block;
-	float: left;
    width: 26%;
 }
 #contact input,
