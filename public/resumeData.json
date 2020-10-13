@@ -1,0 +1,193 @@
+{
+  "main": {
+    "name":"Mary Kang",
+    "occupation":" ",
+    "intro":"I am a full stack software developer actively seeking new web developer opportunities.",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"I am a full stack software developer. My background in Supply Chain and Information Systems in both the Food & Beverage and Retail spaces serves as the foundation for my business acumen, project management skills, and cross-functional collaboration strengths. Outside of work, I am a dedicated yoga practitioner, which has equipped me to embody the mindset of a life-long learner - both in yoga and in coding.",
+    "contactmessage":"Send me a message below",
+    "email": "mary.kang09@gmail.com",
+    "phone": "267-476-0269",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/maryykang/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/marykang09",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/marykang.film/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/murrkang",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Flatiron School",
+        "degree":"Full-Stack Software Engineering",
+        "graduated":"June 2020",
+        "description":"Successfully completed full-time Software Engineering immersive. Technical skills include: Object-Oriented Programming, Ruby, ActiveRecord, Sinatra, Ruby on Rails, Javascript, React, Redux, JWT, HTML/CSS"
+      },
+      {
+        "school":"Penn State University",
+        "degree":"Supply Chain & Information Systems",
+        "graduated":"May 2013",
+        "description":"Bachelor's Degree from the Smeal Business School in Supply Chain & Information Systems, with Minors in Information Systems Management and International Business."
+      }
+    ],
+    "work":[
+      {
+        "company":"CAVA",
+        "title":"Inventory Systems Manager",
+        "years":"January 2019 - March 2020",
+        "description":""
+      },
+      {
+        "company":"",
+        "title":"Supply Chain Specialist",
+        "years":"October 2015 - December 2018",
+        "description":""
+      },
+      {
+        "company":"Five Below",
+        "title":"Supply Chain Analyst",
+        "years":"May 2013 - August 2015",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Object-Oriented Programming",
+        "level":""
+      },
+      {
+        "name":"Ruby",
+        "level":""
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":""
+      },
+      {
+        "name":"Javascript",
+        "level":""
+      },
+      {
+        "name":"React",
+        "level":""
+      },
+      {
+        "name":"Redux",
+        "level":""
+      },
+      {
+        "name":"Git",
+        "level":""
+      },
+      {
+        "name":"ActiveRecord",
+        "level":""
+      },
+      {
+        "name":"Sinatra",
+        "level":""
+      },
+      {
+        "name":"JWT",
+        "level":""
+      },
+      {
+        "name":"HTML",
+        "level":""
+      },
+      {
+        "name":"CSS",
+        "level":""
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"FlowFind",
+        "category":"A web app that assists yoga practitioners of all levels to find inspiration for their next yoga flow.",
+        "image":"flowfind.jpg",
+        "url":""
+      },
+      {
+        "title":"GetTrails",
+        "category":"A web app that encourages indoor and outdoor enthusiasts alike to explore and save hiking trails.",
+        "image":"gettrails.jpg",
+        "url":"https://get-trails.netlify.app/"
+      },
+      {
+        "title":"SongGuesser",
+        "category":"A web game that quizzes players' knowledge of songs based on short song audio snippets.",
+        "image":"songguesser.jpg",
+        "url":"https://github.com/bret-gibson/mod3-project-frontend"
+      }
+    ]
+  },
+  "blogs":{
+    "blogs": [
+      {
+        "title":"Coding During the Coronavirus",
+        "category":"What it's like to quit your job and join a coding boot camp right before the coronavirus",
+        "image":"corona.jpg",
+        "url":"https://medium.com/better-programming/coding-during-coronavirus-ad87dbfbfaa"
+      },
+      {
+        "title":"What the Pluck?",
+        "category":"A look at the ActiveRecord pluck method",
+        "image":"pluck.jpg",
+        "url":"https://medium.com/@mary.kang/what-the-pluck-d9cb891514ad"
+      },
+      {
+        "title":"Store it, locally",
+        "category":"I recently learned about a neat little tool called localStorage...",
+        "image":"localstorage.jpg",
+        "url":"https://medium.com/swlh/store-it-locally-3356d6f9c04f"
+      },
+      {
+        "title":"Bookmarks for Beginners",
+        "category":"Resources and tutorials for your journey in software development",
+        "image":"bookmarks.jpg",
+        "url":"https://medium.com/@mary.kang/bookmarks-for-beginners-6cf6bc8a0e6b"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Testimonial",
+        "user":"Person"
+      },
+      {
+        "text":"Testimonials",
+        "user":"Someone else"
+      }
+    ]
+  }
+}
