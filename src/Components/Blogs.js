@@ -8,7 +8,7 @@ class Blogs extends Component {
         var blogImage = 'images/blogs/'+blogs.image;
         return <div key={blogs.title} className="columns portfolio-item">
            <div className="item-wrap">
-            <a href={blogs.url} title={blogs.title} >
+            <a target="_blank" rel="noopener noreferrer" href={blogs.url} title={blogs.title} >
                <img alt={blogs.title} src={blogImage} />
                <div className="overlay">
                   <div className="portfolio-item-meta">

@@ -19,7 +19,7 @@ class Header extends Component {
       var description= this.props.data.description;
       var intro= this.props.data.intro;
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+        return <li key={network.name}><a target="_blank" rel="noopener noreferrer" href={network.url}><i className={network.className}></i></a></li>
       })
     }
 
@@ -32,7 +32,6 @@ class Header extends Component {
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
-            {/* <li className="current"><a className="smoothscroll" href="#home">Home</a></li> */}
             <li><a className={this.state.activeLink === "Home" ? "current" : null} name="Home" href="#home" onClick={this.handleClick}>Home</a></li>
             <li><a className={this.state.activeLink === "About" ? "current" : null} name="About" href="#about" onClick={this.handleClick}>About</a></li>
 	         <li><a className={this.state.activeLink === "Resume" ? "current" : null} name="Resume" href="#resume" onClick={this.handleClick}>Resume</a></li>
