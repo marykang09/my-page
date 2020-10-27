@@ -131,6 +131,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Amaro Tasting",
+        "category":"A resource for those interested in the Italian liquor Amaro",
+        "image":"amaro.jpg",
+        "url":"amarotasting.com"
+      },
+      {
         "title":"FlowFind",
         "category":"A web app that assists yoga practitioners of all levels to find inspiration for their next yoga flow.",
         "image":"flowfind.jpg",
