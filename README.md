@@ -1,4 +1,4 @@
-## Check it out:
+## Check it out!
 https://mary-kang.com/
 
 
