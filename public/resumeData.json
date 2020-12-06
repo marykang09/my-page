@@ -140,7 +140,7 @@
         "title":"FlowFind",
         "category":"A web app that assists yoga practitioners of all levels to find inspiration for their next yoga flow.",
         "image":"flowfind.jpg",
-        "url":""
+        "url":"https://flowfind.netlify.app/"
       },
       {
         "title":"GetTrails",
