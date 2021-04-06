@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Feed from "react-instagram-authless-feed"
  
 class Photography extends Component {
 

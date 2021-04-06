@@ -12,7 +12,7 @@ import Portfolio from './Components/Portfolio';
 import Image from './Components/Image'
 import yosemite from './assets/yosemite.jpg'
 import korea from './assets/korea.jpg'
-import Photography from './Components/Photography'
+
 
 class App extends Component {
 
