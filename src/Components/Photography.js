@@ -9,10 +9,10 @@ class Photography extends Component {
                 <h1> Film Photography </h1>
                 <p> I've recently become somewhat of a film photography hobbyist.</p>
                 <p> Below is my Instagram feed. I hope you enjoy browsing! </p>
-                <Feed 
+                {/* <Feed 
                 userName="marykang.film"
                 className="Feed"
-                classNameLoading="Loading"/>
+                classNameLoading="Loading"/> */}
             </section>
                 
         )

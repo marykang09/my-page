@@ -56,7 +56,7 @@ class App extends Component {
         <Image image={yosemite} />
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Blogs data={this.state.resumeData.blogs} />
-        <Photography />
+        {/* <Photography /> */}
         <Contact data={this.state.resumeData.main}/>
         <Image image={korea} />
         <Footer data={this.state.resumeData.main}/>

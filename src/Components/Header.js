@@ -37,7 +37,7 @@ class Header extends Component {
 	         <li><a className={this.state.activeLink === "Resume" ? "current" : null} name="Resume" href="#resume" onClick={this.handleClick}>Resume</a></li>
             <li><a className={this.state.activeLink === "Portfolio" ? "current" : null} name="Portfolio" href="#portfolio" onClick={this.handleClick}>Projects</a></li>
             <li><a className={this.state.activeLink === "Blogs" ? "current" : null} name="Blogs" href="#blogs"  onClick={this.handleClick}>Blogs</a></li>
-            <li><a className={this.state.activeLink === "Photography" ? "current" : null} name="Photography" href="#photography" onClick={this.handleClick}>Photography</a></li>
+            {/* <li><a className={this.state.activeLink === "Photography" ? "current" : null} name="Photography" href="#photography" onClick={this.handleClick}>Photography</a></li> */}
             <li><a className={this.state.activeLink === "Contact" ? "current" : null} name="Contact" href="#contact" onClick={this.handleClick}>Contact</a></li>
          </ul>
 
