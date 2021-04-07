@@ -30,11 +30,6 @@
         "className":"fa fa-github"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/marykang.film/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"twitter",
         "url":"https://twitter.com/murrkang",
         "className":"fa fa-twitter"
